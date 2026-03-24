@@ -1,0 +1,11 @@
+{
+  "name": "basketball-chess",
+  "version": "1.0.0",
+  "description": "Basketball Chess — 1998 Chicago Bulls vs Golden State Warriors",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
